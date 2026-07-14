@@ -163,6 +163,7 @@ Features:
 | DenseNet121    | 71.35%   | 71.25%    | 71.35% | 70.56%   |
 
 ---
+<img width="970" height="595" alt="Screenshot (1820)" src="https://github.com/user-attachments/assets/56bbef75-6b63-4fbe-a69d-42fb5ae41991" />
 
 ## 🏆 Best Model
 
