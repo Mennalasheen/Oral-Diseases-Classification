@@ -194,6 +194,7 @@ The final model was integrated into a Streamlit web application.
 * Confidence Score Display
 * Probability Distribution for all Classes
 * Modern Dental-Themed User Interface
+![Uploading Screenshot (1823).png…]()
 
 ---
 
