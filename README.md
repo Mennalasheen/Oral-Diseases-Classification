@@ -208,26 +208,6 @@ This ensures passwords are never stored in plain text.
 
 ---
 
-## 📁 Project Structure
-
-```text
-Oral_Disease_Detection/
-│
-├── Final_Deployment.py
-├── best_model.h5
-├── credentials.txt
-├── Dental.jpg
-├── requirements.txt
-├── README.md
-│
-├── notebooks/
-│   └── Oral_Disease_Classification.ipynb
-│
-└── screenshots/
-```
-
----
-
 ## ▶ How to Run
 
 ### Clone Repository
@@ -250,7 +230,8 @@ streamlit run Final_Deployment.py
 
 ---
 
-
+### Kaggle Notebook Link
+https://www.kaggle.com/code/mennalasheen/oral-diseases-classification
 
 ## Author
 
