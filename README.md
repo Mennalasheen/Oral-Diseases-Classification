@@ -213,7 +213,7 @@ This ensures passwords are never stored in plain text.
 ### Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/oral-disease-detection.git
+git clone https://github.com/Mennalasheen/Oral-Diseases-Classification.git
 ```
 
 ### Install Dependencies
